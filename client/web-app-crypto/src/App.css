@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.table_header :nth-child(1) {
+ font-weight: bold;
+}
+
+.MuiTableCell-root {
+  border-bottom: 1px solid #3E66FB !important;
+}
